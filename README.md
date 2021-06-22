@@ -5,4 +5,4 @@ This project is aimed to create a web application for medical articles.
 
 * [wiki](https://github.com/AkinCetin/SWE573/wiki)
 
-* [Project](https://github.com/AkinCetin/SWE573-Project)
+* [Project(MediSearch) Repository](https://github.com/AkinCetin/SWE573-Project)
